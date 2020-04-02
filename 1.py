@@ -1,2 +1,3 @@
 # añadiendo cosas :v
-# romper 
+# romper
+# adios
